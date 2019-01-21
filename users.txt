@@ -2,3 +2,4 @@ Add your name and email in this list
 
 John Doe: john_doe@amat.com
 Evgeny Lahav: evgeny_lahav@amat.com
+Michael Farjon: michael_farjon@amat.com
